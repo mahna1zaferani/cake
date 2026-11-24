@@ -1,0 +1,10 @@
+.gradle/
+*.class
+*.jar
+build/
+local.properties
+*.iml
+.idea/
+shop.db
+*.db
+*.db-journal

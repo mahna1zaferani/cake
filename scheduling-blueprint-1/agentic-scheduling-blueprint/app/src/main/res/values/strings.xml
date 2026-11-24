@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">کیک و شیرینی گلسرخ</string>
+    <string name="stage1_title">اپلیکیشن سفارش آنلاین کیک و شیرینی گلسرخ</string>
+    <string name="stage1_message">زیرساخت پروژه آماده شد. پیاده‌سازی مراحل بعدی طبق برنامه پیش می‌رود.</string>
+    <string name="login_brand">گلسرخ</string>
+    <string name="login_brand_tagline">سفارش آنلاین کیک و شیرینی</string>
+    <string name="login_username_hint">نام کاربری یا شماره موبایل</string>
+    <string name="login_password_hint">رمز عبور</string>
+    <string name="login_show">نمایش</string>
+    <string name="login_hide">مخفی کردن</string>
+    <string name="login_button">ورود به حساب کاربری</string>
+    <string name="admin_panel_title">پنل مدیریت</string>
+    <string name="admin_panel_coming">صفحه مدیریت در حال توسعه است.</string>
+</resources>

@@ -1,0 +1,11 @@
+#!/usr/bin/env sh
+set -eu
+
+if ! command -v gradle >/dev/null 2>&1; then
+    echo "Gradle is not on PATH."
+    echo "Open the project in Android Studio (File -> Open) to build and run the app."
+    exit 1
+fi
+
+cd "$(dirname "$0")"
+exec gradle "$@"
